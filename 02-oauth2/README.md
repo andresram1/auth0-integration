@@ -8,7 +8,7 @@ This is an implementation heavily based on:
 https://auth0.com/docs/quickstart/webapp/python/01-login
 
 
-Some small modifications where considered here.
+Some small modifications were considered here.
 
 
 # Auth0 Configuration
