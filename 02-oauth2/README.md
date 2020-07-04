@@ -31,6 +31,10 @@ Some small modifications were considered here.
   - In the ```Applications``` section, authorize your Auth0 application to use Google.
 
 
+# Configure a LinkedIn Account
+
+Follow the instructions given [here](https://docs.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/sign-in-with-linkedin)
+
 ---
 
 # Original Documentation
