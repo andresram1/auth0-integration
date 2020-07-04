@@ -33,7 +33,7 @@ Some small modifications were considered here.
 
 # Configure a LinkedIn Account
 
-Follow the instructions given [here](https://docs.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/sign-in-with-linkedin)
+Follow the instructions given [here](https://auth0.com/docs/connections/social/linkedin) and [here](https://docs.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/sign-in-with-linkedin)
 
 ---
 
